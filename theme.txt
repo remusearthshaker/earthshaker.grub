@@ -1,0 +1,24 @@
+# Earthshaker GRUB Theme — Vibrant Pastel Forest Edition
+
+title-text: "Earthshaker"
+title-font: "DejaVu Sans Mono 16"
+title-color: "#b57edc"          # lavender
+desktop-color: "#1a1c1b"        # background
+
+# Menu settings
+menu-color-normal: "#e0d6c3"    # foreground
+menu-color-highlight: "#6c8f6c"
+menu-color-border: "#444844"    # line_num
+menu-color-screen: "#2c302c"    # visual background
+
+# Border + highlight
+message-color: "#ffc07c"        # constant (yellow-orange)
+highlight-color: "#ffb6c1"      # rose
+
+# Progress bar (if supported)
+progress-bar-color: "#90b48f"   # string (greenish pastel)
+progress-bar-background: "#2c302c"
+
+# Icons and resolution (optional)
++boot_menu_icon = "icons/earthshaker.png"
++resolution = "auto"
