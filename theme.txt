@@ -38,6 +38,6 @@ terminal-border: "0"
   width = 30%
   align = "center"
   id = "__timeout__"
-  text = "🌿 Booting in %d seconds..."
+  text = "Booting in %d seconds..."
   color = "#ffc07c"                      # constant
 }
